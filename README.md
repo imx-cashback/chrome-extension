@@ -11,9 +11,9 @@ IMX Cashback allows user to buy on Immutable X marketplace with 0.25% discount p
 
 ## Security
 
-Popup script is located here: `https://github.com/imx-cashback/chrome-extension/tree/src/popup`
+Popup script is located here: https://github.com/imx-cashback/chrome-extension/tree/master/src/popup
 
-IMX injection script is located here: `https://github.com/imx-cashback/chrome-extension/tree/src/index.js`
+IMX injection script is located here: https://github.com/imx-cashback/chrome-extension/tree/master/src/index.js
 
 ## Licence
 Licensed under the terms of the MIT License.
